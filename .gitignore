@@ -1,0 +1,6 @@
+.idea/
+venv/
+venv3/
+venv36/
+.ipynb_checkpoints/
+*.pyc
